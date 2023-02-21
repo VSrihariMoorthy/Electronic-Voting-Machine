@@ -6,4 +6,4 @@ The embedded code used to program the microcontroller LPC2148 in a simulating so
 
 The final results of the voting processs are printed in a virtual terminal connected to the microcontroller by displaying the winning candidate's name and the no.of votes obtained by the candidate.
 
-The project documentation contains additional details on the project, the working of the EVM and also a reference circuit model for simulation through Proteus.
+The project documentation contains additional details on the project, the working of the EVM and also a reference circuit model for simulation purposes through Proteus.
