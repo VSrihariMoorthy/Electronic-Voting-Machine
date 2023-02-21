@@ -67,7 +67,7 @@ void LCD_STRING (char* msg)
 	}
 }
 
-unsigned int can1 = 0, can2 = 0, can3 = 0, can4 = 0, i=0, n = 3;
+unsigned int can1 = 0, can2 = 0, can3 = 0, can4 = 0, i=0, n = 8;
 char txt1[] = "Candidate 1 :", txt2[] = "Candidate 2 :", txt3[] = "Candidate 3 :", txt4[] = "Candidate 4 :", num[2];
 char *info = "Candidate 1: A \n\r\r\nCandidate 2: B \n\r\r\nCandidate 3: C \n\r\r\nCandidate 4: D \n\r\r\n", Wintxt[] = "Winner ", NoWintxt[] = "No Winner";
 
